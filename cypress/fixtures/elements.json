@@ -1,0 +1,8 @@
+{
+  "User": "Using fixtures to represent data",
+  "email": "hello@cypress.io",
+  "body": "Fixtures are a great way to mock data for responses to routes",
+  "strTitle": "MOURI Tech | Enterprise Global Solutions Provider | CMMI DEV/5",
+  "strContactUs": "Contact Us",
+  "elebuttontext": ".elementor-button-text"
+}

@@ -1,0 +1,17 @@
+{
+  "User": "Using fixtures to represent data",
+  "email": "hello@cypress.io",
+  "body": "Fixtures are a great way to mock data for responses to routes",
+  "strContactUs": "Contact Us",
+  "elebuttontext": ".elementor-button-text",
+  "elesendusamessage":"Send Us a Message",
+  "elefullname":"#form-field-name",
+  "eleorganization":"[placeholder=Organization]",
+  "eleemail":"#form-field-email",
+  "elebusinessnumber":"[placeholder='Business Number']",
+  "elemessage":"#form-field-message",
+  "elesendmessage":"#contact_us_form span.elementor-button-text",
+  "elealert":"[role=alert]"
+
+
+}
